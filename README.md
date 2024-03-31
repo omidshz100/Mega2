@@ -2,6 +2,9 @@
 
 This Python script is designed to resize images to specific dimensions using the Python Imaging Library (PIL). Below is an explanation of the script's functionality and how to use it effectively.
 
+### Purpose
+This Python script was developed to simplify the process of generating screenshots for the App Store. By utilizing the Python Imaging Library (PIL), the script automates the resizing of screenshots to various sizes required by Apple's App Store guidelines. All you need to do is copy your screenshots into the designated input folder, and the script will handle the rest. With just a few simple steps, you can obtain screenshots in different sizes, ensuring compliance with Apple's specifications and saving you time and effort in the screenshot preparation process.
+
 ### Prerequisites
 
 Before using this script, ensure you have Python installed on your system. Additionally, install the Python Imaging Library (PIL) by running:
